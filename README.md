@@ -1,4 +1,4 @@
-# Taipei Nightlife Sentiment Analysis 🇹🇼🍸
+# Taipei Nightlife Sentiment Analysis 🍸
 
 **A data engineering and analysis pipeline extracting 5,000+ Google Reviews to uncover market trends in the Taipei nightlife industry.**
 
