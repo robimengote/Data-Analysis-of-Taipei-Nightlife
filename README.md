@@ -21,6 +21,7 @@ This project analyzes **6,626 customer reviews** across Taipei's top nightclubs 
 
 ### 1. Market Positioning Matrix (Scatter Plot)
 ![Scatter Plot Screenshit](Scatter.jpg)
+
 **Chart:** *Popularity (X-Axis) vs. Customer Satisfaction (Y-Axis)*
 * **The Market Leaders (OMNI, KOR):** These venues have achieved the "holy grail" of nightlife operations—sustaining high review volume (>800 reviews) while maintaining top-tier sentiment ratings (>4.3 stars).
 * **The "Hidden Gem" (AI):** AI currently holds the highest overall market rating (**4.6+**), outperforming all competitors in quality, though with lower overall visibility/volume than the legacy giants.
