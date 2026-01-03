@@ -41,6 +41,17 @@ This project analyzes **6,626 customer reviews** across Taipei's top nightclubs 
 * **The 2024 Correction:** Since 2023, the "Price" sentiment has crashed back down to ~3.0, signaling that the "honeymoon phase" is over and the market has returned to high price sensitivity.
 * **Resilience:** "Drinks & Alcohol" ratings have remained on a steady uptrend for 5 years, reinforcing its status as the "Top Nightlife Driver."
 
+## Recommendations
+### 1. The "Value Pivot" Pricing Strategy
+* **For Mass-Market Venues (e.g., Wave, Ruff): Abolish the "Well Drink" Token**
+    * **The Problem:** Low "Drinks" scores (~3.2) indicate that free entry drinks are perceived as low-quality, validating the customer's feeling that the entry fee was a rip-off.
+    * **The Fix:** Convert the Cover Charge into a **Full-Value Store Credit**. (e.g., Pay 600 NTD → Get 600 NTD credit for top-shelf menu). This forces the venue to compete on product quality, not just "cheap access."
+
+* **For Premium Venues (e.g., KOR, OMNI): The "Zero-Entry" Reservation Model**
+    * **The Problem:** These venues have elite "Drinks" ratings (>4.6) but suffer from low "Price" scores (~3.0). Patrons resent the "sunk cost" of entry fees but are willing to spend heavily on the product.
+    * **The Fix:** Eliminate entry fees for guests who **pre-book** a minimum spend. (e.g., "Walk-in = 1000 NTD Entry" vs. "Book Online = Free Entry with 1000 NTD Minimum Spend").
+    * **The Impact:** This shifts revenue from the "Door" (Low Satisfaction) to the "Bar" (High Satisfaction), rewarding high-value customers who plan ahead while maintaining exclusivity.
+
 ---
 ## 🛠️ Tech Stack
 ### 1. Technologies Used
