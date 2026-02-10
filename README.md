@@ -2,7 +2,7 @@
 
 **A data engineering and analysis pipeline extracting 6,000+ Google Reviews to uncover market trends in the Taipei nightlife industry.**
 
-![Status](https://img.shields.io/badge/Status-Completed-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Power BI](https://img.shields.io/badge/Visualization-Power%20BI-f2c811)
 
