@@ -1,6 +1,6 @@
 # Taipei Nightlife Sentiment Analysis 🍸
 
-**A data engineering and analysis pipeline extracting 6,000+ Google Reviews to uncover market trends in the Taipei nightlife industry.**
+**A data engineering and analysis pipeline scraping 6,000+ Google Reviews to uncover market trends in the Taipei nightlife industry.**
 
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
